@@ -4,4 +4,4 @@
 
 Live demo:
 
-![Alt Text](./docs/import_from_file.gif)
+![Alt Text](./docs/demo.gif)
