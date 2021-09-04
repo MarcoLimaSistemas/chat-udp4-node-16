@@ -1,0 +1,11 @@
+{
+  "name": "chat_terminal",
+  "version": "1.0.0",
+  "description": "Chat em realtime no terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Lima",
+  "license": "ISC"
+}
